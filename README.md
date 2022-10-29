@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**harshhh1911/harshhh1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python3
+class Harsh():
+    def __init__(self):
+        self.name = ['Harsh Shukla']
+        self.country = ['India']
+        self.language = ['हिंदी', 'English']
+    def programming_languages(self):
+        return [
+            'C', 'C++'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow',
+            'MySQL', 'Visual Studio Code', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Linux', 'Windows'
+        ]
+    def linux_distros(self):
+        return [
+            'Kali'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11'
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = Harsh()
+ ```
+
