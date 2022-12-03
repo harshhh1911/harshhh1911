@@ -17,7 +17,7 @@ class Harsh():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow',
-            'MySQL', 'Visual Studio Code', 'Azure'
+            'Visual Studio Code'
         ]
     def operating_system(self):
         return [
