@@ -1,5 +1,4 @@
 
-
 ```python3
 class Harsh():
     def __init__(self):
@@ -8,7 +7,12 @@ class Harsh():
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
         return [
-            'C', 'C++'
+            'C', 'C++', 'React.Js', 'Node.Js',
+             'Express.Js', 'CSS', 'Next.Js'
+        ]
+    def server(self):
+        return [
+            'MongoDB'
         ]
     def markup_languages(self):
         return [
@@ -17,7 +21,7 @@ class Harsh():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow',
-            'Visual Studio Code'
+            'Visual Studio Code', 'Git'
         ]
     def operating_system(self):
         return [
@@ -29,7 +33,7 @@ class Harsh():
         ]
     def windows_os(self):
         return [
-            'Windows 11'
+            'Windows 10'
         ]
 
 if __name__ == '__main__':
