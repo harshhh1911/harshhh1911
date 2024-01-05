@@ -63,6 +63,3 @@ if __name__ == '__main__':
 ---
 [![](https://visitcount.itsvg.in/api?id=Cyb3rGhoul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![An image of @cyb3rghoul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyb3rghoul)](https://holopin.io/@cyb3rghoul)
