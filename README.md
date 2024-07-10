@@ -65,6 +65,4 @@ if __name__ == '__main__':
 
 [![](https://visitcount.itsvg.in/api?id=Cyb3rGhoul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Cyb3rGhoul/Cyb3rGhoul/blob/output/github-contribution-grid-snake.gif)
-
 
